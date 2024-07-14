@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../1SI22CI063"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "workshop"
+	}
+}
